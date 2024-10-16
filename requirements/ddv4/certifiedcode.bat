@@ -1,4 +1,6 @@
 @echo off
+chcp 65001
+title Outdated Message
 goto updatefunction
 
 :updatefunction
