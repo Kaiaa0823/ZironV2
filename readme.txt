@@ -67,6 +67,7 @@ Certified Code will be launch in our menu to check if this menu real to use
 
 Certified Code: x#####x#####x##### (This will be in the menu way before you login)
 Certified Code will Generate if your menu is real or not.
+Certified code Generator updates Regularly any problems with your Certified Code Generator let us know
 
 Want to check if this menu is real just by Downloading our Certified Menu Code Check
 
@@ -74,6 +75,9 @@ Want to check if this menu is real just by Downloading our Certified Menu Code C
 
 
 
+Updated most regularly
+
+V3 coming soon with new looking Design and more features be applied
 
 
 
