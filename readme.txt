@@ -1,4 +1,4 @@
-#Thank you for downloading Ziron V2 menu
+Thank you for downloading Ziron V2 menu
 
 This currently not Licenced menu yet
 
